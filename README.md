@@ -6,3 +6,5 @@ VS Code edit
 
 URL to clone this GitHub repository:
 https://github.com/NiklasTrella/Python.git
+
+Toto jsou nějaké nové řádky...
